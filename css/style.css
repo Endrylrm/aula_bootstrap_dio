@@ -1,0 +1,25 @@
+body {
+    font-size: large;
+    color: white;
+}
+
+.navbar {
+    background-color: darkgray;
+}
+
+.quem-somos {
+    background-color: gray;
+}
+
+.parceiro {
+    background-color: darkgray;
+}
+
+#clientes {
+    background-color: grey;
+}
+
+.margin {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
